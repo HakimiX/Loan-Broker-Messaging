@@ -1,0 +1,16 @@
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\obj\x86\Debug\TranslatorMsg.csproj.CoreCompileInputs.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\TranslatorMsg.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\TranslatorMsg.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\ClassEngine.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\obj\x86\Debug\TranslatorMsg.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\obj\x86\Debug\TranslatorMsg.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\obj\x86\Debug\TranslatorMsg.csprojResolveAssemblyReference.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\ClassEngine.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\TranslatorJSON\TranslatorMsg\bin\Debug\TranslatorMsg.exe.config

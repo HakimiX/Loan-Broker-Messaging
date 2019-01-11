@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{08B5B012-B181-48D7-B49F-41ECF5DC05E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aggregator/AggregatorApplication.cs">
+    <Files>
+      <File FileName="Aggregator/Program.cs" Line="1" Column="1" />
+      <File FileName="Aggregator/AggregatorApplication.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LoanBroker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

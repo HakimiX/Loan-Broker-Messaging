@@ -1,0 +1,13 @@
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\obj\x86\Debug\RecipientList.csproj.CoreCompileInputs.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\bin\Debug\RecipientList.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\bin\Debug\RecipientList.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\bin\Debug\ClassEngine.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\obj\x86\Debug\RecipientList.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\obj\x86\Debug\RecipientList.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\obj\x86\Debug\RecipientList.csprojResolveAssemblyReference.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\RecipientList\bin\Debug\ClassEngine.exe

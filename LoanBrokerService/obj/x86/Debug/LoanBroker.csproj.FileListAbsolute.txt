@@ -1,0 +1,12 @@
+/Users/kevinturan/Desktop/LoanBroker/LoanBrokerService/bin/Debug/LoanBrokerService.exe
+/Users/kevinturan/Desktop/LoanBroker/LoanBrokerService/bin/Debug/LoanBrokerService.pdb
+/Users/kevinturan/Desktop/LoanBroker/LoanBrokerService/obj/x86/Debug/LoanBroker.csproj.CoreCompileInputs.cache
+/Users/kevinturan/Desktop/LoanBroker/LoanBrokerService/obj/x86/Debug/LoanBrokerService.exe
+/Users/kevinturan/Desktop/LoanBroker/LoanBrokerService/obj/x86/Debug/LoanBrokerService.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\LoanBrokerService\bin\Debug\LoanBrokerService.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\LoanBrokerService\bin\Debug\LoanBrokerService.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\LoanBrokerService\obj\x86\Debug\LoanBroker.csproj.CoreCompileInputs.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\LoanBrokerService\obj\x86\Debug\LoanBrokerService.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\LoanBrokerService\obj\x86\Debug\LoanBrokerService.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\LoanBrokerService\bin\Debug\LoanBrokerService.exe.config
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\LoanBrokerService\obj\x86\Debug\LoanBroker.csprojResolveAssemblyReference.cache

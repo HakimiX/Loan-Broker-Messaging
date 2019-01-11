@@ -1,0 +1,15 @@
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\obj\x86\Debug\Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\obj\x86\Debug\Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\Aggregator.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\Aggregator.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\ClassEngine.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\ClassEngine.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\obj\x86\Debug\Aggregator.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\Aggregator\obj\x86\Debug\Aggregator.pdb

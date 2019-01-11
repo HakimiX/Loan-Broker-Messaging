@@ -1,0 +1,16 @@
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\obj\x86\Debug\NormalizerJSON.csprojResolveAssemblyReference.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\obj\x86\Debug\NormalizerJSON.csproj.CoreCompileInputs.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\NormalizerJSON.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\NormalizerJSON.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\ClassEngine.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\obj\x86\Debug\NormalizerJSON.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\obj\x86\Debug\NormalizerJSON.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\ClassEngine.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\NormalizerJSON\bin\Debug\NormalizerJSON.exe.config

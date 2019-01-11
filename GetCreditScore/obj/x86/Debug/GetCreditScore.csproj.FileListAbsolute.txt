@@ -1,0 +1,16 @@
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\obj\x86\Debug\GetCreditScore.csproj.CoreCompileInputs.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\GetCreditScore.exe.config
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\GetCreditScore.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\GetCreditScore.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\ClassEngine.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\obj\x86\Debug\GetCreditScore.exe
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\obj\x86\Debug\GetCreditScore.pdb
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\obj\x86\Debug\GetCreditScore.csprojResolveAssemblyReference.cache
+C:\Users\Karima\Desktop\LoanBroker-2\LoanBroker\GetCreditScore\bin\Debug\ClassEngine.exe

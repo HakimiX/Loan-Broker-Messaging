@@ -1,0 +1,10 @@
+/Users/kevinturan/Desktop/LoanBroker/RabbitMQConnectionTest_2/bin/Debug/netcoreapp2.0/RabbitMQConnectionTest_2.deps.json
+/Users/kevinturan/Desktop/LoanBroker/RabbitMQConnectionTest_2/bin/Debug/netcoreapp2.0/RabbitMQConnectionTest_2.runtimeconfig.json
+/Users/kevinturan/Desktop/LoanBroker/RabbitMQConnectionTest_2/bin/Debug/netcoreapp2.0/RabbitMQConnectionTest_2.runtimeconfig.dev.json
+/Users/kevinturan/Desktop/LoanBroker/RabbitMQConnectionTest_2/bin/Debug/netcoreapp2.0/RabbitMQConnectionTest_2.dll
+/Users/kevinturan/Desktop/LoanBroker/RabbitMQConnectionTest_2/bin/Debug/netcoreapp2.0/RabbitMQConnectionTest_2.pdb
+/Users/kevinturan/Desktop/LoanBroker/RabbitMQConnectionTest_2/obj/Debug/netcoreapp2.0/RabbitMQConnectionTest_2.csproj.CoreCompileInputs.cache
+/Users/kevinturan/Desktop/LoanBroker/RabbitMQConnectionTest_2/obj/Debug/netcoreapp2.0/RabbitMQConnectionTest_2.AssemblyInfoInputs.cache
+/Users/kevinturan/Desktop/LoanBroker/RabbitMQConnectionTest_2/obj/Debug/netcoreapp2.0/RabbitMQConnectionTest_2.AssemblyInfo.cs
+/Users/kevinturan/Desktop/LoanBroker/RabbitMQConnectionTest_2/obj/Debug/netcoreapp2.0/RabbitMQConnectionTest_2.dll
+/Users/kevinturan/Desktop/LoanBroker/RabbitMQConnectionTest_2/obj/Debug/netcoreapp2.0/RabbitMQConnectionTest_2.pdb

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ClassEngine" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ClassEngine" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfBank">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Bank" nillable="true" type="tns:Bank" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBank" nillable="true" type="tns:ArrayOfBank" />
+  <xs:complexType name="Bank">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BankIdentificationCode" type="xs:int" />
+      <xs:element minOccurs="0" name="Bankname" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Exchange" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Normalizer" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TranslatorType" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Bank" nillable="true" type="tns:Bank" />
+</xs:schema>
